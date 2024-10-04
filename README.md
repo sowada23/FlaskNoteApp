@@ -4,6 +4,7 @@
 
 Allowing users to add, store, view, and delete notes.
 !image.png
+image.png
 
 
 
