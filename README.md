@@ -2,8 +2,7 @@
 
 ## Website
 
-Allowing users to add, store, view, and delete notes.
-!image.png
+!Allowing users to add, store, view, and delete notes.
 (image.png)
 
 
