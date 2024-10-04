@@ -3,7 +3,7 @@
 ## Website
 
 Allowing users to add, store, view, and delete notes.
-!Screenshot 2024-10-04 at 4.43.35 PM.png
+!image.png
 
 
 
